@@ -59,3 +59,5 @@ export default async function handler(req, res) {
     res.status(500).json({ error: "We do not fail. We conquer.", details: e.message });
   }
 }
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=sovereign-ad-serve.js
